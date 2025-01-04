@@ -3,15 +3,13 @@ import GitHubIcon from '@mui/icons-material/GitHub';
 import LinkedInIcon from '@mui/icons-material/LinkedIn';
 import '../assets/styles/Main.scss';
 
-import profile from '../assets/images/profile.png';
-
 function Main() {
 
   return (
     <div className="container">
       <div className="about-section">
         <div className="image-wrapper">
-          <img src={profile} alt="Avatar" />
+          <img src="/assets/images/profile.png" alt="Avatar" />
         </div>
         <div className="content">
           <div className="social_icons">
