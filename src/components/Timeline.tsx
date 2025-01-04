@@ -64,4 +64,13 @@ function Timeline() {
             <p>
               Memorized and accurately described wine varieties to customers, boosting wine sales by 10% over 6 months. 
             </p>
-            <p>Handled an average of 25-30 tables per 
+            <p>Handled an average of 25-30 tables per shift and provided efficient service during peak hours.</p>
+            <p>Participated in 6 wine tasting workshops to improve product knowledge and enhance customer recommendations.</p>
+          </VerticalTimelineElement>
+        </VerticalTimeline>
+      </div>
+    </div>
+  );
+}
+
+export default Timeline;
